@@ -1,4 +1,4 @@
-## Hey! I'm EuVz a Roblox Developer focused on creating clean, functional systems — fast. 🚀
+## Hey! I'm EuVz a Roblox Developer focused on creating clean, functional systems. 🚀
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://euvzportfolio.vercel.app/])
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@euvizinnho)
@@ -7,8 +7,15 @@
 
 ![EuVz's Stats](https://github-readme-stats.vercel.app/api?username=WizzyPC)
 
-
 ## 💻 I write all my code with performance and scalability in mind, and always aim to deliver something polished and easy to expand later.
+
+### Recent Projects:
+- [🚪 Simple Doors System](https://euvzportfolio.vercel.app/projects/simpledoors-system)<br/>
+- [📹 Security Cams System](https://euvzportfolio.vercel.app/projects/securitycams-system)<br/>
+- [🗂️ Admin Role & Permissions System](https://euvzportfolio.vercel.app/projects/adminrole-permissions-system)<br/>
+
+💸 If you're interested, feel free to send details about your idea and I’ll let you know how long it’d take and what it would cost.
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,11 +23,3 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
-
-💸 If you're interested, feel free to send details about your idea and I’ll let you know how long it’d take and what it would cost.
-
-### Recent Projects:
-- [🚪 Simple Doors System](https://euvzportfolio.vercel.app/projects/simpledoors-system)<br/>
-- [📹 Security Cams System](https://euvzportfolio.vercel.app/projects/securitycams-system)<br/>
-- [🗂️ Admin Role & Permissions System](https://euvzportfolio.vercel.app/projects/adminrole-permissions-system)<br/>
-
