@@ -7,6 +7,14 @@
 
 ---
 
+👋 About Me
+Hi, I'm EuVz — a Roblox Developer passionate about building clean, modular, and scalable systems for games. I specialize in creating performance-focused features that are easy to expand and customize.
+  🧠 Skilled in Lua, JavaScript, Pawno, and Next.js
+  🛠️ Experienced in developing complex systems like admin panels, security setups, and custom game mechanics
+  🚀 Always improving and exploring new tools to take my projects to the next level
+
+---
+
 ### 📊 GitHub Stats
 
 ![EuVz's Stats](https://github-readme-stats.vercel.app/api?username=WizzyPC&show_icons=true&theme=dark)
