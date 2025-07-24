@@ -1,4 +1,4 @@
-## Hey! I'm EuVz a Roblox Developer focused on creating clean, functional systems. 🚀
+## 👋 Hey! I'm EuVz — a Roblox Developer focused on clean, functional systems.
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://euvzportfolio.vercel.app/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@euvizinnho)
