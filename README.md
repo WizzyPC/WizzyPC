@@ -9,7 +9,7 @@
 
 ### 📊 GitHub Stats
 
-![EuVz's Stats](https://github-readme-stats.vercel.app/api?username=WizzyPC&show_icons=true&theme=darkhub)
+![EuVz's Stats](https://github-readme-stats.vercel.app/api?username=WizzyPC&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=WizzyPC&theme=darkhub)
 
 ---
