@@ -5,7 +5,8 @@
 [![Roblox Group](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.roblox.com/pt/communities/900841263/Kize-Studios#!/about)
 [![Mail Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euvizinnho@gmail.com?subject=Project%20Inquiry&body=Hello,%20I%20have%20a%20project%20I'd%20like%20to%20discuss%20with%20you.%20Would%20you%20be%20available%20to%20work%20on%20it?)
 
-[![EuVz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizzyPC)
+![EuVz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizzyPC)
+
 
 ## 💻 I write all my code with performance and scalability in mind, and always aim to deliver something polished and easy to expand later.
 
