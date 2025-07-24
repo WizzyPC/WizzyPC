@@ -7,7 +7,7 @@
 
 ![EuVz's Stats](https://github-readme-stats.vercel.app/api?username=WizzyPC)
 
-## 💻 I write all my code with performance and scalability in mind, and always aim to deliver something polished and easy to expand later.
+### 💻 I write all my code with performance and scalability in mind, and always aim to deliver something polished and easy to expand later.
 
 ### Recent Projects:
 - [🚪 Simple Doors System](https://euvzportfolio.vercel.app/projects/simpledoors-system)<br/>
